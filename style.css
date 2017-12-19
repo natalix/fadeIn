@@ -10,15 +10,6 @@
 h2 {
 	font-size: 40px;
 	cursor: pointer;
-	border-bottom: solid 1px transparent;
-	-webkit-transition: border-bottom-color .2s ease-out;
-	-moz-transition: border-bottom-color .2s ease-out;
-	 -ms-transition: border-bottom-color .2s ease-out;
-	  -o-transition: border-bottom-color .2s ease-out;
-		 transition: border-bottom-color .2s ease-out;
-}
-
-h2:hover {
 	border-bottom: solid 1px rgb(41, 128, 185);
 }
 
