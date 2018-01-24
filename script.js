@@ -4,5 +4,5 @@ $(function() {
         delay: 200,
         duration: 500
     });
-    $('.sequential_animation').delay(3000).fadeOut();
+    // $('.sequential_animation').delay(3000).fadeOut();
 });
