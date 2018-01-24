@@ -6,4 +6,4 @@ I have used:
 - CSS
 - jQuery
 
-[Link](http://nataliamazurczak.pl/fadeIn/)
+[Live view](http://nataliamazurczak.pl/fadeIn/)
